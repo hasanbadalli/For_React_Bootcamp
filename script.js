@@ -10,6 +10,13 @@ document.getElementById("textButton").addEventListener("click", function () {
   document.querySelector("#greeting").innerText = "Hello, Javascript!";
 });
 
+/*
+
+Mən bu sayt sadə olduğu üçün istədimki biraz da bunu gəliştirim.İstəsəniz bu linkdən girib baxa bilrsiniz.Hesabimda başqa projelərdə mövcutdur.
+Color Flipper ---> https://github.com/hasanbadalli/Color_Flipper.git
+
+*/
+
 // Helper function for generating a random color (Complete for the applicant)
 function getRandomColor() {
   var letters = "0123456789ABCDEF";
